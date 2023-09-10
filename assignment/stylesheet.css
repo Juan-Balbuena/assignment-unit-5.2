@@ -1,0 +1,14 @@
+header {
+    background-color: black;
+    color: lightgray;
+    text-align: center;
+}
+
+main{
+    background-color: lightgray;
+    text-align: center;
+}
+
+body{
+    background-image: url(record.png);
+}
